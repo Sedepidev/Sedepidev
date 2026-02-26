@@ -49,11 +49,4 @@ Y seguiré ampliando mi stack próximamente.
 
 ---
 
-## 📫 Contacto
-
-📧 *(puedes añadir aquí tu email si quieres)*
-💼 *(LinkedIn u otras redes si decides agregarlas)*
-
----
-
 ⭐ **“Siempre en modo aprendizaje.”**
