@@ -26,7 +26,7 @@ Y seguiré ampliando mi stack próximamente.
 ## 🛠️ Tecnologías y herramientas
 
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![HTML](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html)
+![HTML5](https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database)
